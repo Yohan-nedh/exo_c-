@@ -1,7 +1,0 @@
-# ninja log v6
-195	1018	1744968612968981161	CMakeFiles/projet_utile.dir/main.cpp.o	f5bab3a249674991
-189	195	1744968612964981350	CMakeFiles/projet_utile.dir/main.cpp.o.modmap	79c8fd0020bf1abe
-1018	1181	1744968613792942154	projet_utile	6b127cf56136b53
-189	195	1744968612964981350	/home/nedh/CLionProjects/projet_utile/cmake-build-debug/CMakeFiles/projet_utile.dir/CXXModules.json	79c8fd0020bf1abe
-189	195	1744968612964981350	CMakeFiles/projet_utile.dir/CXX.dd	79c8fd0020bf1abe
-2	189	1744968612776990255	CMakeFiles/projet_utile.dir/main.cpp.o.ddi	e219afa1c20e69fa

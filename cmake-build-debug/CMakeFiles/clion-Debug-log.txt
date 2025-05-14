@@ -1,4 +1,0 @@
-/home/nedh/Téléchargements/clion-2024.3.5/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/nedh/Téléchargements/clion-2024.3.5/bin/ninja/linux/x64/ninja -G Ninja -S /home/nedh/CLionProjects/projet_utile -B /home/nedh/CLionProjects/projet_utile/cmake-build-debug
--- Configuring done (0.0s)
--- Generating done (0.0s)
--- Build files have been written to: /home/nedh/CLionProjects/projet_utile/cmake-build-debug
