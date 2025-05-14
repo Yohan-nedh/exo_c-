@@ -1,9 +1,10 @@
 #include <iostream>
+#include <cmath>
 using namespace std;
 
 int main() {
     double l, L, P,s, a,b,c,kg;
-    int N[5], som = 0, taux;
+    int N[5], som = 0, taux,t,i, little;
     /*
      //Notions de base
     // excercice 1
@@ -67,9 +68,52 @@ int main() {
     else {
         cout << "You lose";
     }
-    */
+
 
     // excercice 2
+    for (int i = 8; i <= 23; i++) {
+        cout << i << endl;
+    }
+    // excercice 3
+    int i = 8;
+    while (i <= 23) {
+        cout << i << endl;
+        i++;
+    }
+    // excercice 4
+
+    for (int i = 0; i < 10; i++) {
+        cout << "Veuillez entrer dix entiers "<< i + 1 << ":";
+        cin >> t;
+        som += t;
+    }
+    cout << "Voici la somme de des 10 chiffres entrer:" << som << endl;
+
+
+    // excercice 5
+    for (int i = 0; i < 10; i++) {
+        cout << "Veuillez entrer dix entiers "<< i + 1 << ":";
+        cin >> t;
+        if (i == 0) {
+            little = t;
+        }else if (t < little) {
+            little = t;
+        }
+    }
+    cout << little << endl;
+
+
+    // exercice 6
+    int n;
+    cout << "Veuillez entrer un entier N: ";
+    cin >> n;
+    cout << "Voici le nombre que vous avez saisie au cube: " << pow(n,3) << endl;
+    */
+
+    //exercice 7
+
+    
+
 
 
 
